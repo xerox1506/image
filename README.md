@@ -411,3 +411,55 @@ document.getElementById('uploadForm').addEventListener('submit', function(e) {
     document.getElementById('status').innerText = `File "${file.name}" imechaguliwa.`;
   }
 });
+# Xelox Image Repository
+
+##  Maelezo ya Jumla
+Hii ni repository inayoshirikisha picha mbalimbali zinazohusiana na elimu, vitabu, na mitihani ya awali.  
+Lengo kuu ni kusaidia wanafunzi, walimu, na wapenzi wa kujifunza kupata picha na nyenzo za kielimu kwa urahisi.
+
+---
+
+##  Muundo wa Folders
+
+- **/Books** — Picha zinazohusiana na vitabu vya masomo mbalimbali.
+- **/PastPapers** — Picha za mitihani ya awali kutoka miaka tofauti.
+- **/PracticeQuestions** — Maswali ya mazoezi kwa maandalizi ya mitihani.
+- **/OtherResources** — Picha au nyenzo zingine za kielimu.
+
+---
+
+##  Jinsi ya Kutumia
+1. Fungua folder unalotaka (mfano: `Books`).
+2. Chagua picha unayohitaji.
+3. Unaweza **kupakua** au **kurejelea** picha hizo kwa matumizi ya kujifunza.
+
+---
+
+##  Miongozo ya Kuchangia
+Tunakaribisha michango kutoka kwa mtu yeyote anayetaka kusaidia kuboresha maktaba hii ya picha.
+
+Kabla ya kuchangia:
+1. Hakikisha picha ni ya **kielimu** na **haina hakimiliki ya mtu mwingine**.
+2. Tumia majina yanayoelezea picha (mfano: `Physics_Notes_2025.png`).
+3. Fanya **Pull Request** na eleza mabadiliko yako.
+4. Tutakagua na kuunganisha ikiwa yote yapo sawa.
+
+---
+
+##  Leseni
+Yaliyomo kwenye repository hii yanapatikana chini ya leseni ya **MIT License**.  
+Tafadhali hakikisha unafuata masharti ya kutumia au kushirikisha yaliyomo.
+
+---
+
+##  Viungo Muhimu
+- GitHub Profile: [@xerox1506](https://github.com/xerox1506)
+- Email ya mawasiliano: *(ongeza hapa ikiwa unataka wengine wakutafute)*
+- Tovuti (ikihitajika): *(ongeza link ya tovuti yako kama unayo)*
+
+---
+
+##  Credits
+Asante kwa kuchangia, kutumia, na kusaidia kukuza mradi huu wa wazi!  
+Kila picha inayoletwa inachangia elimu bora kwa wote. 
+
